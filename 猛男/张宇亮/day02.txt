@@ -1,0 +1,37 @@
+实训日志(日更)
+day two又是美好的一天
+早上开始学习HTML标记语言，了解到它有以下特点
+html  标记语言
+	http协议
+	常用标签
+		div
+		span
+		table  tr td th
+		form  input  type="radio"
+				get  post
+	常用属性
+		id
+		class
+		title
+		style
+		name  
+另外还有
+CSS
+	选择器
+	基础样式
+		background  背景
+		font-size   文本大小
+		cursor   鼠标样式
+		color  文本颜色
+	布局
+		盒子模型
+		弹性盒布局 flex
+		浮动
+		定位
+这些都是基础知识，俗话说熟能生巧，第一次深入学习还有些生疏
+我相信通过一定时间的重复练习就可以很好的消化吸收而不是左耳进右耳出。
+
+今天开始认识到自己的打字速度存在的问题，并决定要提高自己的打字水平
+加快自己的打字速度
+
+加油！☺

@@ -1,0 +1,35 @@
+实训日记（日更）
+第一天的学习目标：
+注册GitHub账户并安装git客户端
+NodeJS安装与配置
+️vscode安装与配置️
+apache静态服务器安装与配置
+JDK安装与配置
+
+从老师的讲解中了解到很多前端知识
+印象最深的是
+※刘老师的邮箱地址(*￣︶￣)
+※前端的三大框架：AngularJS、Vue、React
+※前后端分离技术：swagger
+※使用标记语言去熟悉掌握HTML的各种属性及标签
+※在github上协同开发并且上传.txt文件到仓库中
+创建仓库
+  远程仓库   github的仓库
+  本地缓存   暂存的文件
+  本地仓库   本地的文件夹 
+把远程仓库的代码复制下来  
+	1.直接下载压缩包
+	2.git clone git地址
+更新
+	远程仓库代码发生改变，本地代码需要更新
+	git pull origin master
+※码云
+部署项目
+	1.先启动apache
+		c:/Apache24/bin/httpd.exe 
+	2.编写文件
+	3.部署项目
+		localhost:80     c:/Apache24/htdocs文件夹  index.html index.htm
+		localhost:80/index.html
+		localhost:80/hello.html
+		localhost:80/test/hello.html
