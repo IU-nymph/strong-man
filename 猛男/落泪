@@ -1,1 +1,13 @@
-猛男落泪
+想把远程仓库的代码复制下来  
+	1.直接下载压缩包
+	2.git clone git地址
+  git clone https://github.com/liuyrSilence/gx-briup.git
+
+上传
+	git add *       将当前修改的文件添加到上传列表
+	git commit -m '刘亚蓉提交'   提交到本地缓存中
+	git push origin master 将本地缓存中文件推送到远程仓库中
+
+更新
+	远程仓库代码发生改变，本地代码需要更新
+	git pull origin master
